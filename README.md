@@ -1,13 +1,13 @@
-# <p align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">👋 Hi, I'm Madhavi Poudel</p>
+# <p align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50;">👋 Hi, I'm Madhavi Paudel</p>
 
 <p align="center" style="font-family: 'Arial', sans-serif; color: #555; font-size: 18px;">
-Welcome to my GitHub profile! I’m a **Business Information Management (BIM)** student at **Kanya Campus**, with a passion for **JavaScript** and web development. Feel free to explore my repositories, contribute to my projects, or connect with me for collaboration!
+Welcome to my GitHub profile! I’m a **Business Information Management (BIM)** student at **Kanya Campus Pokhara**, with a passion for **JavaScript** and web development. Feel free to explore my repositories, contribute to my projects, or connect with me for collaboration!
 </p>
 
 ## 🚀 About Me
 
-- 💻 **Skills**: C, C++, Java, Python, JavaScript, HTML, CSS, React, PHP, Laravel, MySQL
-- 🌱 **Currently learning**: JavaScript, React, and PHP
+- 💻 **Skills**:JavaScript, HTML, CSS, React,MySQL
+- 🌱 **Currently learning**: JavaScript, React
 - 🔭 **Recent Project**: Online Bus Ticketing System
 - 📝 Check out my portfolio at [madhavipaudel.com.np](http://madhavipaudel.com.np)
 - ⚡ **Fun fact**: I’m passionate about building user-friendly web apps that make life easier!
@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I’m a **Business Information Management (BIM)** 
 ## 🛠️ Technologies & Tools
 
 <p style="font-size: 18px;">
-  <strong>Languages:</strong> C, C++, Java, Python, JavaScript, PHP  
-  <strong>Frameworks:</strong> React, Laravel  
+  <strong>Languages:</strong>JavaScript
+  <strong>Frameworks:</strong> React
   <strong>Databases:</strong> MySQL  
   <strong>Web Technologies:</strong> HTML, CSS  
   <strong>Tools:</strong> Git, VS Code, npm  
@@ -39,18 +39,6 @@ Here are some of the projects I’ve worked on:
 
 
 ---
-
-## 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- 
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ---
 
