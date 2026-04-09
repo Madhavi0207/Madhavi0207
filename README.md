@@ -32,11 +32,11 @@ Here are some of the projects I’ve worked on:
 
 - **Online Bus Ticketing System**  
   A web-based system to manage and book bus tickets online.  
-  [GitHub Repo Link (Add link here)](https://github.com/your-repo)
+ 
 
 - **Portfolio Website**  
   My personal website showcasing my projects and skills.  
-  [Visit my Portfolio](http://madhavipaudel.com.np)
+
 
 ---
 
@@ -46,9 +46,7 @@ Here are some of the projects I’ve worked on:
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+ 
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
